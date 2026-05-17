@@ -21,4 +21,4 @@ The goal of this project is to detect and count **Persons** and **Vehicles** fro
 * `tracked.mp4`: The final demo video showing real-time unique ID tracking and HUD counting.
 
 ## 📺 Demo Video
-*(Paste the link to your YouTube or Google Drive screen-recording here!)*
+*https://drive.google.com/file/d/159Xb6k4pG-MeLXOw8a2XzStRZRxXdcNs/view?usp=drivesdk*
